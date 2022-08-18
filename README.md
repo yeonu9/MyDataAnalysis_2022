@@ -12,4 +12,4 @@
      
 ## [영화 관객수 예측]
    * 데이터 참조 : https://dacon.io/competitions/open/235536/overview/description
-   * 내용 : 주어진 데이터로 영화 관객수를 예측 해본다.
+   * 내용 : 주어진 데이터로 영화 관객 수를 예측하는 모델을 만들어본다.
