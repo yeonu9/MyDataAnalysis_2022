@@ -10,6 +10,6 @@
      * IRIS 기본 모델 만들기 [html]()
      * IRIS 모델 평가 [html]()
      
-## 영화 관객수 예측
+## [영화 관객수 예측]
    * 데이터 참조 : https://dacon.io/competitions/open/235536/overview/description
    * 내용 : 주어진 데이터로 영화 관객수를 예측 해본다.
