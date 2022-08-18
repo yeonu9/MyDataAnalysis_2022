@@ -13,4 +13,4 @@
 ## [영화 관객수 예측]
    * 데이터 참조 : https://dacon.io/competitions/open/235536/overview/description
    * 내용 : 주어진 데이터로 영화 관객 수를 예측하는 모델을 만들어본다.
-    * 영화 관객수 EDA [html](https://shining-loganberry-73d.notion.site/EDA-f8aeafda93d84931a6e934e086bb0b00)
+     * 영화 관객수 EDA [html](https://shining-loganberry-73d.notion.site/EDA-f8aeafda93d84931a6e934e086bb0b00)
